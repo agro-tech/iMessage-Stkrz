@@ -1,0 +1,56 @@
+{
+  "stickers" : [
+    {
+      "filename" : "backpack.sticker"
+    },
+    {
+      "filename" : "belt.sticker"
+    },
+    {
+      "filename" : "bomb.sticker"
+    },
+    {
+      "filename" : "book.sticker"
+    },
+    {
+      "filename" : "bronze_coin.sticker"
+    },
+    {
+      "filename" : "clover.sticker"
+    },
+    {
+      "filename" : "feather.sticker"
+    },
+    {
+      "filename" : "ring.sticker"
+    },
+    {
+      "filename" : "magic-jack.sticker"
+    },
+    {
+      "filename" : "steamboat-marky.sticker"
+    },
+    {
+      "filename" : "Car White.stickersequence"
+    },
+    {
+      "filename" : "Character.stickersequence"
+    },
+    {
+      "filename" : "Coin.stickersequence"
+    },
+    {
+      "filename" : "Car Yellow.stickersequence"
+    },
+    {
+      "filename" : "Goku.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
